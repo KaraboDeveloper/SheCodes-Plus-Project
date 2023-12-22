@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+.temperature {
+  font-size: 100px;
+}
+ul {
+  list-style: none;
+  text-align: center;
+  font-weight: 500;
+}
+.row {
+  font-size: large;
+}
